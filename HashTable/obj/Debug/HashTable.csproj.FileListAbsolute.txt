@@ -1,0 +1,10 @@
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\HashTable\HashTable\bin\Debug\HashTable.exe.config
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\HashTable\HashTable\bin\Debug\HashTable.exe
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\HashTable\HashTable\bin\Debug\HashTable.pdb
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\HashTable\HashTable\obj\Debug\HashTable.csprojAssemblyReference.cache
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\HashTable\HashTable\obj\Debug\HashTable.Form1.resources
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\HashTable\HashTable\obj\Debug\HashTable.Properties.Resources.resources
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\HashTable\HashTable\obj\Debug\HashTable.csproj.GenerateResource.cache
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\HashTable\HashTable\obj\Debug\HashTable.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\HashTable\HashTable\obj\Debug\HashTable.exe
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\HashTable\HashTable\obj\Debug\HashTable.pdb
