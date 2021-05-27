@@ -1,0 +1,10 @@
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\BinarTree\obj\Debug\BinarTree.csprojAssemblyReference.cache
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\BinarTree\obj\Debug\BinarTree.Form1.resources
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\BinarTree\obj\Debug\BinarTree.Properties.Resources.resources
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\BinarTree\obj\Debug\BinarTree.csproj.GenerateResource.cache
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\BinarTree\obj\Debug\BinarTree.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\BinarTree\bin\Debug\BinarTree.exe.config
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\BinarTree\bin\Debug\BinarTree.exe
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\BinarTree\bin\Debug\BinarTree.pdb
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\BinarTree\obj\Debug\BinarTree.exe
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\BinarTree\obj\Debug\BinarTree.pdb
