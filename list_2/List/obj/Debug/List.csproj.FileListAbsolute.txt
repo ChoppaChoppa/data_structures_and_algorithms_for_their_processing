@@ -1,0 +1,10 @@
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\list — копия\list_2\List\bin\Debug\List.exe.config
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\list — копия\list_2\List\bin\Debug\List.exe
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\list — копия\list_2\List\bin\Debug\List.pdb
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\list — копия\list_2\List\obj\Debug\List.csprojAssemblyReference.cache
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\list — копия\list_2\List\obj\Debug\List.Form1.resources
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\list — копия\list_2\List\obj\Debug\List.Properties.Resources.resources
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\list — копия\list_2\List\obj\Debug\List.csproj.GenerateResource.cache
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\list — копия\list_2\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\list — копия\list_2\List\obj\Debug\List.exe
+D:\УЧЕБА\MyProject\C#\gitSAOD\SAODKHabitovSalim2255\list — копия\list_2\List\obj\Debug\List.pdb
